@@ -1,4 +1,4 @@
-# Lab1_3
+# Lab1_3 (Spring MVC version)
 
 You can run the application using ```./gradlew bootRun```. 
 Or you can build the JAR file using ```./gradlew build```. Then you can run the JAR file:
@@ -23,3 +23,5 @@ And for test API go to:
 [link 1](http://localhost:8090/round-robin)
 [link 2](http://localhost:8090/round-robin/stat)
 
+# Run NodeJS version
+You can find instruction in ```node_docker/``` folder
